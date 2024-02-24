@@ -74,7 +74,6 @@ li {
     list-style-type: none;
     margin-top:10px;
     margin-bottom: 10px;
-    align-items: start;
 }
 .locations:hover .popover,
 .amenities:hover .popover {
